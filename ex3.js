@@ -1,10 +1,5 @@
-// Exercício 3: Ímpar ou par
-// Faça um programa que receba um número do usuário e informe se este número é par ou ímpar.
-
-let n = prompt("Digite um numero");
-let total = n % 2;
-if (total == 0) {
-    console.log("PAR")
-} else {
-    console.log("IMPAR")
-}
+for (let i = 0; i <= 50; i++) {
+    if (i % 2 !== 0) {
+      console.log(i);
+    }
+  }
