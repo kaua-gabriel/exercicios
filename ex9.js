@@ -16,3 +16,14 @@ if (!isNaN(numero)) {
 } else {
   console.log('Por favor, insira um número válido.');
 }
+
+// let numero = parseInt(prompt('Digite um número para começar a contagem regressiva:'))
+
+// console.log ("a contagem regressiva está começando em: " + numero)
+
+// while(numero >= 8){
+//   console.log(numero);
+// numero--;
+// }
+
+// console.log ("contagem regrssiva finalizada")

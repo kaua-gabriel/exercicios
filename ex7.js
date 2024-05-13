@@ -4,7 +4,7 @@ let soma = 0;
 let numero = 1;
 
 while (numero <= 100) {
-  soma += numero;
+  soma += numero; 
   numero++;
 }
 
